@@ -1,1 +1,1 @@
-# pyGame
+# python is so easy 
